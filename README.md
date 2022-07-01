@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mirwais Farahi</h1>
 <h3 align="center">A passionate full-stack web developer and data analyst from Afghanistan</h3>
 
+Hello, I am Mirwais Farahi, a full-stack developer and data analyst. I worked as a Database Developer, Lecturer & Researcher, Senior Software Development Specialist and System Analyst. I have spent the past 5+ years developing systems such as web applications,
+Health care project, Image Processing, Cyber Security Data Analysis, Bank Loan System using Neural Network, and various other projects using Hadoop Big Data tools. I am keen to continue developing my career in the field of software development, System Analysis, data analysis and machine learning. I have excellent software development languages and frameworks skills required for database and web applications development. Also, I am experienced in several skills, including Python programming language, MySQL, Hadoop Big Data tool, and various data management software. Moreover, I have experience in system code review, Software Requirements Specification documents.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirwaisfarahi&label=Profile%20views&color=0e75b6&style=flat" alt="mirwaisfarahi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirwaisfarahi" alt="mirwaisfarahi" /></a> </p>
